@@ -111,6 +111,10 @@ employee-attrition-prediction/
 
 │   └── HR_Attrition_Dataset.csv
 
+### Dataset Note
+
+The original analysis dataset exceeded GitHub's standard file size limits and is therefore not included in this repository. All analysis outputs, methodology documentation, visualizations, and project deliverables are provided.
+
 ├── notebooks/
 
 │   └── Employee_Attrition_Analysis.ipynb
